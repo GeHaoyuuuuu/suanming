@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">suanming</string>
+    <string name="title_home">生辰</string>
+    <string name="title_dashboard">抽签</string>
+    <string name="title_notifications">记录</string>
+    <string name="lab_year">年：</string>
+    <string name="lab_month">月：</string>
+    <string name="lab_day">日：</string>
+    <string name="but_summit">公历转农历</string>
+    <string name="y_hint">1999</string>
+    <string name="m_hint">01</string>
+    <string name="d_hint">19</string>
+    <string name="trans_hint">您的农历生日是：</string>
+    <string name="jisuan">生辰算命</string>
+    <string name="nl_year">二零零七年</string>
+    <string name="nl_month">腊月</string>
+    <string name="nl_day">初五</string>
+    <string name="lab_clock">出生时刻：</string>
+    <string name="lab_nlclock">生辰时刻：</string>
+    <string name="c_hint">0-23</string>
+    <string name="nlc_hint">子-癸</string>
+    <string name="shengxiao">生肖：</string>
+    <string name="shengxiao_hint">鼠-猪</string>
+    <string name="chou">抽签</string>
+    <string name="recordlabel">抽签记录</string>
+    <string name="deletelabel">清空记录</string>
+    <string name="count">0</string>
+</resources>
